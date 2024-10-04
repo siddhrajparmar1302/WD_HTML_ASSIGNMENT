@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #e3ffed;
+}
+
+th, td {
+    border: 1px solid #000;
+    padding: 10px;
+    text-align: left;
+    font-size: 19px;
+}
+
+th {
+    background-color: #d9f2d9;
+}
+
+.header {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.subtotal, .tax, .grand-total {
+    text-align: left;
+    font-weight: bold;
+}
+
+.qty, .price, .cost {
+    text-align: left;
+}

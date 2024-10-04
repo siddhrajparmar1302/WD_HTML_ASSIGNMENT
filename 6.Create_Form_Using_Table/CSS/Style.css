@@ -1,0 +1,70 @@
+.main-section {
+    border: 1px solid black;
+    width: 59%;
+    font-family: math;
+    padding: 14px;
+    background: aqua;
+}
+
+.form-section {
+    border: 1px solid black;
+    padding: 17px;
+    background: whitesmoke;
+    border-radius: 12px;
+}
+
+.table-container {
+    padding-left: 2%;
+}
+
+tr {
+    display: flex;
+    gap: 14%;
+}
+
+.table-container {padding-left: 2%;}
+
+tr {
+    display: flex;
+    gap: 14%;
+}
+
+label {
+    font-family: math;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+input[type="text"] {
+    width: 190px;
+    padding: 5px;
+    margin-bottom: 14px;
+}
+
+
+input[type="tel"] {
+    width: 190px;
+    padding: 5px;
+    margin-bottom: 14px;
+}
+
+input[type="email"] {
+    width: 190px;
+    padding: 5px;
+    margin-bottom: 14px;
+}
+
+input[type="Submit"] {
+    margin-left: 25%;
+    margin-bottom: 2%;
+    padding: 10px;
+    width: 45%;
+    border: 1px solid black;
+    border-radius: 28px;
+    font-size: 23px;
+    font-family: math;
+    font-weight: 500;
+    color: yellow;
+    background: #e35700;
+}
+

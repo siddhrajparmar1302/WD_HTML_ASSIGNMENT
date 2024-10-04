@@ -1,0 +1,23 @@
+td {
+    width: 1%;
+    text-align: center;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+.door{
+    width: 100%;
+}
+.contact-us-page{
+    background-color: rgb(227, 99, 141);
+    text-decoration: none;
+}
+.contact-image{
+    width: 100%;
+}
+.d-a{
+    padding: -0px;
+    background-color: red;
+}
+.form{
+    background-color: rgb(76, 234, 234);
+}

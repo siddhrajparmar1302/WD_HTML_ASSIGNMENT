@@ -1,0 +1,129 @@
+.radio_section {
+    margin-left: 13%;
+}
+.mr{
+    margin-left: -6px;
+}
+.mrs{
+    margin-left: -6px;
+}
+.ms{
+    margin-left: -6px;
+}
+.image-section img {
+    width: 35%;
+}
+form{
+    margin-left: 20px;
+}
+.form-container {
+    padding-left: 3%;
+}
+.first_name{
+    display: flex;
+    gap: 125px;
+    margin-top: 2px;
+}
+.last_name{
+    display: flex;
+    gap: 127px;
+    margin-top: 2px;
+}
+.mail_address_1{
+    display: flex;
+    gap: 97px;
+    margin-top: 2px;
+}
+.mail_address_2{
+    display: flex;
+    gap: 97px;
+    margin-top: 2px;
+}
+.city{
+    display: flex;
+    gap: 172px;
+    margin-top: 2px;
+}
+.State_section{
+    display: flex;
+    gap: 167px;
+    margin-top: 2px;
+}
+.zip{
+    display: flex;
+    gap: 177px;
+    margin-top: 2px;
+}
+.upload_photo{
+    display: flex;
+    gap: 106px;
+    margin-top: 5px;
+}
+.email{
+    display: flex;
+    gap: 158px;
+    margin-top: 4px;
+}
+.mobile{
+    display: flex;
+    gap: 149px;
+    margin-top: 2px;
+}
+.languages-section{
+    display: flex;
+    gap: 122px;
+    margin-top: 2px;
+}
+language-options {
+    margin-left: -35px;
+    font-size: 17px;
+}
+.label-title{
+    margin-right: -49px;
+}
+.additional_info{
+    display: flex;
+    gap: 8px;
+}
+.additional-info{
+    margin-left: 3px;
+}
+.btn_section {
+    display: flex;
+    margin-left: 166px;
+    margin-top: 3px;
+}
+.btn-reset{
+    margin-left: 10px;
+}
+input[type="text"] {
+    width: 176px;
+    padding: 5px;
+    margin-left: -43px;
+}
+select#state {
+    margin-left: -42px;
+}
+input[type="file"] {
+    margin-left: -3%;
+}
+input[type="tel"] {
+    margin-left: -42px;
+    padding: 5px;
+    width: 13%;
+}
+input[type="text"] {
+    width: 186px;
+    padding: 5px;
+    margin-left: -43px;
+}
+select#state {
+    margin-left: -43px;
+    padding: 4px;
+}
+.language-options {
+    font-size: 17px;
+}
+input[type="checkbox"]{
+    margin-left: -27px;
+}
